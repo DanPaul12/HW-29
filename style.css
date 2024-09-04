@@ -14,16 +14,22 @@ ul{
     color: red;
 }
 
-ol{
+div{
+    border: 10px black;
+}
+
+ol>div{
     font-family: 'Times New Roman', Times, serif;
     box-sizing: border-box;
 }
 
 header{
     background-color: beige;
+    padding: 20px;
 }
 
 footer{
     background-color: beige;
+    padding: 20px;
 }
 

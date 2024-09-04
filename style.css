@@ -10,8 +10,17 @@ h2{
 
 ul{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: red;
 }
 
 ol{
     font-family: 'Times New Roman', Times, serif;
+}
+
+header{
+    background-color: beige;
+}
+
+footer{
+    background-color: beige;
 }

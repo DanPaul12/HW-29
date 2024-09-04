@@ -7,7 +7,7 @@ h1 {
 h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     letter-spacing: .5em;
-    padding: 100px;
+    padding: 20px;
 }
 
 ul{
@@ -24,7 +24,7 @@ ul{
 }
 
 div>ol{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
 header{

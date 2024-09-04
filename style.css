@@ -17,12 +17,12 @@ ul{
 .recipe{
     border: 1px solid black;
     width: 1000px;
-    height: 300px;
+    height: 275px;
     padding: 20px;
 }
 
 ol{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
 }
 
 header{

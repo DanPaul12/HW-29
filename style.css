@@ -16,7 +16,7 @@ ul{
 
 ol{
     font-family: 'Times New Roman', Times, serif;
-    border: 10px;
+    box-sizing: border-box;
 }
 
 header{
@@ -27,7 +27,3 @@ footer{
     background-color: beige;
 }
 
-img{
-    margin: 0;
-    border: 0;
-}

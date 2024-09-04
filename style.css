@@ -6,6 +6,7 @@ h1 {
 
 h2{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: .5em;
 }
 
 ul{
@@ -15,6 +16,7 @@ ul{
 
 ol{
     font-family: 'Times New Roman', Times, serif;
+    border: 10px;
 }
 
 header{
@@ -23,4 +25,9 @@ header{
 
 footer{
     background-color: beige;
+}
+
+a{
+    margin: 0;
+    border: 0;
 }

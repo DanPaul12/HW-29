@@ -14,13 +14,14 @@ ul{
     color: red;
 }
 
-div{
-    border: 10px black;
+.recipe{
+    border: 10px solid black;
+    width: 300px;
+    height: 200px;
 }
 
 ol>div{
-    font-family: 'Times New Roman', Times, serif;
-    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 header{

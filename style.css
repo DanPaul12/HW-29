@@ -23,6 +23,10 @@ ul{
     margin: 20px;
 }
 
+.forbutton{
+    font-style: italic;
+}
+
 div>ol{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }

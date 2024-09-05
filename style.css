@@ -32,6 +32,7 @@ ul{
     height: 100px;
     color: rebeccapurple;
     background-color: aliceblue;
+    text-size-adjust: 10;
 }
 
 div>ol{

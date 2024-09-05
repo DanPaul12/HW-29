@@ -27,6 +27,12 @@ ul{
     font-style: italic;
 }
 
+.button{
+    width: 100px;
+    height: 100px;
+    color: aliceblue;
+}
+
 div>ol{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }

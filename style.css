@@ -49,6 +49,10 @@ div>ol{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
 
+#form{
+    border: 10px;
+}
+
 header{
     background-color: beige;
     padding: 20px;

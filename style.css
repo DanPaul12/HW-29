@@ -33,11 +33,16 @@ ul{
     color: rebeccapurple;
     background-color: aliceblue;
     font-size: large;
+    font-weight: bold;
 }
 
 .button:hover{
     background-color: blanchedalmond;
     text-decoration: solid;
+}
+
+a:hover{
+    background-color: brown;
 }
 
 div>ol{

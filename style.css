@@ -32,7 +32,12 @@ ul{
     height: 100px;
     color: rebeccapurple;
     background-color: aliceblue;
-    text-size-adjust: 10;
+    font-size: large;
+}
+
+.button:hover{
+    background-color: blanchedalmond;
+    text-decoration: solid;
 }
 
 div>ol{
